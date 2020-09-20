@@ -1,13 +1,13 @@
  [
         {
-            "shipmentAddress": {
+            "shipmentAddress": [
                 "id": 509761280,
                 "address1": "hasan mahallesi şehit sokak no.2 sar konutları A blok kat.9 daire.2",
                 "city": " Adıyaman ",
                 "district": "Besni",
                 "countryCode": "tr",
                 "fullName": "Emine Karadagli"
-            },
+            ],
             "orderNumber": "320163342",
             "grossAmount": "32.90",
             "totalDiscount": 0.00,
@@ -32,10 +32,10 @@
                     "amount": 32.9,
                     "discount": 0,
                     "discountDetails": 
-                        {
+                        [
                             "lineItemPrice": 32.9,
                             "lineItemDiscount": 0
-                        },
+                        ],
                     
                     "currencyCode": "TRY",
                     "productColor": "Color",
